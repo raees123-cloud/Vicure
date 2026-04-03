@@ -1,0 +1,1 @@
+// bank-transfer.integration.ts content
